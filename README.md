@@ -1,4 +1,4 @@
-# space_trimmer
+# Space Trimmer
 
 Have you ever wanted to make multiple of spaces be a single space?
 Well, that's easier than you thought.
